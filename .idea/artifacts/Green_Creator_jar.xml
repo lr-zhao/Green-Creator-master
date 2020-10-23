@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Green-Creator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Green_Creator_jar</output-path>
+    <root id="archive" name="Green-Creator.jar">
+      <element id="module-output" name="Green-Creator" />
+      <element id="library" level="project" name="command-0.0.9" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
